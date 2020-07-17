@@ -1,0 +1,2 @@
+# studentTeacherManagementSsystem
+Created with CodeSandbox
